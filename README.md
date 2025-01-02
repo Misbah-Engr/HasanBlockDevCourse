@@ -32,13 +32,13 @@
 
 **Exercises for Week 2:**
 - Write a simple "Hello, World" smart contract in Solidity.
-- Deploy your contract on a testnet (e.g., Ropsten or Goerli).
+- Deploy your contract on a testnet (Sepolia).
 
 ## Week 3: Ethereum Development Environment
 
 ### Saturday:
 **Lesson 5: Ethereum Development Tools**
-- Truffle, Ganache, Remix, and MetaMask
+- Foundry, Remix, and MetaMask
 - Setting Up Development Environment
 
 ### Sunday:
@@ -54,6 +54,7 @@
 
 ### Saturday:
 **Lesson 7: Advanced Blockchain Concepts**
+- EIPs
 - Scalability Issues and Solutions (Sharding, Layer 2)
 - Security Considerations in Smart Contracts
 
@@ -63,5 +64,5 @@
 - Review Session: Peer Code Review and Feedback
 
 **Exercises for Week 4:**
-- Complete the capstone project (e.g., a simple marketplace or a game).
+- Complete the capstone project (Decentralized Exchange, ERC20 Tokens, ERC4626, and NFT).
 - Document your project process and outcomes in a blog post or presentation.# HasanBlockDevCourse
